@@ -5,7 +5,7 @@ namespace LargestPrimeFactor
     class Program
     {   
         //Problem 3, Project Euler, Largest Prime Factor
-        const long number = 600851475143;
+        const long number = 13194;
         static public bool IsPrime(long x)
         {
             for (long i = 2; i < x; i++)
@@ -23,13 +23,16 @@ namespace LargestPrimeFactor
             //number == 600851475143
             long HPF = 1;
 
-            for (long i = 2; i <= number; i++)
+            for (long i = number; i > 2; i--)
             {
-                if (Program.IsPrime(i) == true)
+                if (number % i == 0)
                 {
-                    if(i > HPF)
+                    if (Program.IsPrime(i) == true)
                     {
-                        HPF = i;
+                        if (i > HPF)
+                        {
+                            HPF = i;
+                        }
                     }
                 }
             }
