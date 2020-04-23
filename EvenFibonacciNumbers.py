@@ -12,7 +12,7 @@ prevnumber = 1
 
 while(number < 4000000):
 
-    if ((number + prevnumber) % 2 == 0):
+    if (number % 2 == 0):
         total = total + number
         nextnumber = prevnumber + number
         prevnumber = number
