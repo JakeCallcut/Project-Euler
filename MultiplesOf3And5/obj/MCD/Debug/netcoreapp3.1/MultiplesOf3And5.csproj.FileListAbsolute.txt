@@ -1,0 +1,11 @@
+E:\Programming\Project-Euler\MultiplesOf3And5\bin\MCD\Debug\netcoreapp3.1\MultiplesOf3And5.exe
+E:\Programming\Project-Euler\MultiplesOf3And5\bin\MCD\Debug\netcoreapp3.1\MultiplesOf3And5.deps.json
+E:\Programming\Project-Euler\MultiplesOf3And5\bin\MCD\Debug\netcoreapp3.1\MultiplesOf3And5.runtimeconfig.json
+E:\Programming\Project-Euler\MultiplesOf3And5\bin\MCD\Debug\netcoreapp3.1\MultiplesOf3And5.runtimeconfig.dev.json
+E:\Programming\Project-Euler\MultiplesOf3And5\bin\MCD\Debug\netcoreapp3.1\MultiplesOf3And5.dll
+E:\Programming\Project-Euler\MultiplesOf3And5\bin\MCD\Debug\netcoreapp3.1\MultiplesOf3And5.pdb
+E:\Programming\Project-Euler\MultiplesOf3And5\obj\MCD\Debug\netcoreapp3.1\MultiplesOf3And5.csprojAssemblyReference.cache
+E:\Programming\Project-Euler\MultiplesOf3And5\obj\MCD\Debug\netcoreapp3.1\MultiplesOf3And5.AssemblyInfoInputs.cache
+E:\Programming\Project-Euler\MultiplesOf3And5\obj\MCD\Debug\netcoreapp3.1\MultiplesOf3And5.AssemblyInfo.cs
+E:\Programming\Project-Euler\MultiplesOf3And5\obj\MCD\Debug\netcoreapp3.1\MultiplesOf3And5.dll
+E:\Programming\Project-Euler\MultiplesOf3And5\obj\MCD\Debug\netcoreapp3.1\MultiplesOf3And5.pdb

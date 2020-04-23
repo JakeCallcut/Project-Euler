@@ -1,0 +1,11 @@
+E:\Programming\Project-Euler\LargestPrimeFactor\bin\Debug\netcoreapp3.1\LargestPrimeFactor.exe
+E:\Programming\Project-Euler\LargestPrimeFactor\bin\Debug\netcoreapp3.1\LargestPrimeFactor.deps.json
+E:\Programming\Project-Euler\LargestPrimeFactor\bin\Debug\netcoreapp3.1\LargestPrimeFactor.runtimeconfig.json
+E:\Programming\Project-Euler\LargestPrimeFactor\bin\Debug\netcoreapp3.1\LargestPrimeFactor.runtimeconfig.dev.json
+E:\Programming\Project-Euler\LargestPrimeFactor\bin\Debug\netcoreapp3.1\LargestPrimeFactor.dll
+E:\Programming\Project-Euler\LargestPrimeFactor\bin\Debug\netcoreapp3.1\LargestPrimeFactor.pdb
+E:\Programming\Project-Euler\LargestPrimeFactor\obj\Debug\netcoreapp3.1\LargestPrimeFactor.csprojAssemblyReference.cache
+E:\Programming\Project-Euler\LargestPrimeFactor\obj\Debug\netcoreapp3.1\LargestPrimeFactor.AssemblyInfoInputs.cache
+E:\Programming\Project-Euler\LargestPrimeFactor\obj\Debug\netcoreapp3.1\LargestPrimeFactor.AssemblyInfo.cs
+E:\Programming\Project-Euler\LargestPrimeFactor\obj\Debug\netcoreapp3.1\LargestPrimeFactor.dll
+E:\Programming\Project-Euler\LargestPrimeFactor\obj\Debug\netcoreapp3.1\LargestPrimeFactor.pdb
