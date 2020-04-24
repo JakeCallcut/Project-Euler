@@ -5,7 +5,7 @@ namespace LargestPrimeFactor
     class Program
     {   
         //Problem 3, Project Euler, Largest Prime Factor
-        const long number = 13194;
+        const long number = 600851475143;
         static public bool IsPrime(long x)
         {
             for (long i = 2; i < x; i++)
