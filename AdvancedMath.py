@@ -7,11 +7,21 @@ def ShowFunctionList():
     print("IsPrime(), Sqr(), HighestFactor(), IsPalindrome(), ReverseString()")
 
 def IsPrime(x):
-    for i in range (2, (x / 2)):
-        if(x % i == 0):
-            return False
+    i = 3
+    if(x <= 1):
+        return False
     else:
-        return True
+        if(x == 2):
+            return True
+        else:
+            while(i < x):
+                if(x % i == 0):
+                    return False
+                    i += 2
+                else:
+                    i += 2
+            else:
+                return True
 
 def sqr(x):
     return (x * x)
@@ -24,17 +34,17 @@ def HighestFactor(x):
                 hf = i
     return hf
  
-def ReverseString(str):
-    newstr = ""
-    for i in range (len(str), 0)):
-        newstr = newstr + str[]
-    else:
-        print(newstr)
+#def ReverseString(str):
+#    newstr = ""
+#    for i in range (len(str), 0)):
+#        newstr = newstr + str[]
+#    else:
+#        print(newstr)
 
 def IsPalindrome(x):
     x = str(x)
 
     if (len(x) % 2 == 0):
-        if(x[0:len(x)/2] = )
-    else:
+        #if(x[0:len(x)/2] = )
+    #else:
         pass
