@@ -22,7 +22,7 @@ namespace _1000_DigitFibonacciNumber
                 digits = Convert.ToString(currnum).Length;
                 index++;
 
-            } while (digits < 50);
+            } while (digits < 1 < 100);
 
             Console.WriteLine(prevnum);
             Console.WriteLine(currnum);
