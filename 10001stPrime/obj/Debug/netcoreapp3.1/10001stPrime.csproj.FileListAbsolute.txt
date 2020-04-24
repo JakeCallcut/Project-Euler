@@ -1,0 +1,11 @@
+E:\Programming\Project-Euler\10001stPrime\bin\Debug\netcoreapp3.1\10001stPrime.exe
+E:\Programming\Project-Euler\10001stPrime\bin\Debug\netcoreapp3.1\10001stPrime.deps.json
+E:\Programming\Project-Euler\10001stPrime\bin\Debug\netcoreapp3.1\10001stPrime.runtimeconfig.json
+E:\Programming\Project-Euler\10001stPrime\bin\Debug\netcoreapp3.1\10001stPrime.runtimeconfig.dev.json
+E:\Programming\Project-Euler\10001stPrime\bin\Debug\netcoreapp3.1\10001stPrime.dll
+E:\Programming\Project-Euler\10001stPrime\bin\Debug\netcoreapp3.1\10001stPrime.pdb
+E:\Programming\Project-Euler\10001stPrime\obj\Debug\netcoreapp3.1\10001stPrime.csprojAssemblyReference.cache
+E:\Programming\Project-Euler\10001stPrime\obj\Debug\netcoreapp3.1\10001stPrime.AssemblyInfoInputs.cache
+E:\Programming\Project-Euler\10001stPrime\obj\Debug\netcoreapp3.1\10001stPrime.AssemblyInfo.cs
+E:\Programming\Project-Euler\10001stPrime\obj\Debug\netcoreapp3.1\10001stPrime.dll
+E:\Programming\Project-Euler\10001stPrime\obj\Debug\netcoreapp3.1\10001stPrime.pdb
