@@ -34,17 +34,15 @@ def HighestFactor(x):
                 hf = i
     return hf
  
-#def ReverseString(str):
-#    newstr = ""
-#    for i in range (len(str), 0)):
-#        newstr = newstr + str[]
-#    else:
-#        print(newstr)
+def ReverseString(x):
+      return str(x[::-1])
 
 def IsPalindrome(x):
     x = str(x)
-
-    if (len(x) % 2 == 0):
-        #if(x[0:len(x)/2] = )
-    #else:
-        pass
+    reverse = str(x[::-1])
+    if(x == reverse):
+        return True
+    else:
+        return False
+    
+    
