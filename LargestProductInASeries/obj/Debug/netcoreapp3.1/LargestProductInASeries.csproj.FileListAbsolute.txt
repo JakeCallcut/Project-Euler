@@ -1,0 +1,11 @@
+E:\Programming\Project-Euler\LargestProductInASeries\bin\Debug\netcoreapp3.1\LargestProductInASeries.exe
+E:\Programming\Project-Euler\LargestProductInASeries\bin\Debug\netcoreapp3.1\LargestProductInASeries.deps.json
+E:\Programming\Project-Euler\LargestProductInASeries\bin\Debug\netcoreapp3.1\LargestProductInASeries.runtimeconfig.json
+E:\Programming\Project-Euler\LargestProductInASeries\bin\Debug\netcoreapp3.1\LargestProductInASeries.runtimeconfig.dev.json
+E:\Programming\Project-Euler\LargestProductInASeries\bin\Debug\netcoreapp3.1\LargestProductInASeries.dll
+E:\Programming\Project-Euler\LargestProductInASeries\bin\Debug\netcoreapp3.1\LargestProductInASeries.pdb
+E:\Programming\Project-Euler\LargestProductInASeries\obj\Debug\netcoreapp3.1\LargestProductInASeries.csprojAssemblyReference.cache
+E:\Programming\Project-Euler\LargestProductInASeries\obj\Debug\netcoreapp3.1\LargestProductInASeries.AssemblyInfoInputs.cache
+E:\Programming\Project-Euler\LargestProductInASeries\obj\Debug\netcoreapp3.1\LargestProductInASeries.AssemblyInfo.cs
+E:\Programming\Project-Euler\LargestProductInASeries\obj\Debug\netcoreapp3.1\LargestProductInASeries.dll
+E:\Programming\Project-Euler\LargestProductInASeries\obj\Debug\netcoreapp3.1\LargestProductInASeries.pdb

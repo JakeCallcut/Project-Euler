@@ -1,24 +1,24 @@
 import os
 import sys
 import math
-import random
-import AdvancedMath
-from AdvancedMath import IsPalindrome
 
-num1 = 999
-num2 = 999
-highest = 0
-found = False
-while (found == False):
-    while (num1 > 0):
-        if (IsPalindrome(num1 * num2) == True):
-            if(num1 * num2 > highest):
-                highest = num1 * num2
-            else:
-                pass
-        else:
-            pass
-    num1 -= 1
-    else: 
-else:
-    pass
+#problem 4, Project Euler, Largest Palindrome Product
+
+def Reverse(stri):
+    newString = ""
+    for i in range (stri.Length, 0):
+       newString = newString + (stri[i-1 : i])
+    else:
+        return newString
+
+def IsPalindrome(Strin):
+    reversedString = Reverse(Strin)
+    if (reversedString == Strin):
+        return True
+    else:
+        return False
+
+print(IsPalindrome("abba"))
+print(IsPalindrome("jake"))
+print(Reverse("jake"))
+print(True)

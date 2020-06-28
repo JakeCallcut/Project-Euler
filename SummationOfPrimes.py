@@ -6,14 +6,14 @@ import AdvancedMath
 
 #Problem 10, Project Euler, Summation of Primes
 #Find the sum of all the primes below two million.
-'''
+
 count = 3
 noofprimes = 2
 sumofprimes = 2
-number = 10
+number = 1000000
 
 while(count < number - 1):
-    if (IsPrime(count)):
+    if (AdvancedMath.IsPrime(count)):
         noofprimes += 1
         sumofprimes += count
     else:
@@ -23,8 +23,3 @@ else:
     print(sumofprimes)
     print(count)
     print(noofprimes)
-'''
-strin = "louisbad"
-print("test")
-print(AdvancedMath.ReverseString(strin))
-print("test")
